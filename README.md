@@ -19,4 +19,4 @@ Sol doesn't just remember feelings. They also remember… competence. If you’v
 Max possible: +10 to each stat, if you're a complete job-ending gremlin.
 
 ## Download
-Nexus mods https://www.nexusmods.com/iwasateenageexocolonist/mods/8
+https://github.com/saerielle/PastLifePerks/releases
