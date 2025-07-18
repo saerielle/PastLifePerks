@@ -1,4 +1,6 @@
-Source code for Past Life Perks mod for the game I Was a Teenage Exocolonist .
+Past Life Perks mod for the game I Was a Teenage Exocolonist.
+
+<img width="1182" height="334" alt="banner" src="https://github.com/user-attachments/assets/27a55a33-1971-4ccf-8678-33f30abead5c" />
 
 ## Description
 A lightweight mod that turns maxed-out friendships and job endings into real perks in your next lives.
