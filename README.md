@@ -19,6 +19,7 @@ This also works with modded friends - as long as you have reached that friend's 
 Sol doesn't just remember feelings. They also remember… competence. If you’ve unlocked a job ending that required a specific stat, your future selves will benefit:
 - You start each new life with +5 in that stat
 - You gain another +5 mid-game
+
 Max possible: +10 to each stat, if you're a complete job-ending gremlin.
 
 ## Download
