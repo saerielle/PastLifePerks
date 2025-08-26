@@ -10,6 +10,7 @@ If you maxed out a character's relationship in a past life (earned the in-game a
 - +50% rep gain when their relationship is under 50
 - +25% rep gain between 50-99
 - Birthday gifts (that they like) always get +50% bonus
+
 This bonus helps to skip early grind but doesn't eliminate effort - especially for those latecomer friends (you know the ones). Balance may evolve; I am open to feedback if it feels like too much or too little.
 
 This also works with modded friends - as long as you have reached that friend's ultimate friendship event and got their 3rd card in one of the past lives :)
